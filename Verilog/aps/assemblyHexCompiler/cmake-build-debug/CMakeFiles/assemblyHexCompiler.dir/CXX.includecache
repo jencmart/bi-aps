@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jencmart/Dropbox/development/Verilog/aps/assemblyHexCompiler/main.cpp
+iostream
+-
+sstream
+-
+iterator
+-
+vector
+-
+map
+-
+bitset
+-
+

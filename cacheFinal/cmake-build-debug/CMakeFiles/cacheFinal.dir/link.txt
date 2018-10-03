@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cacheFinal.dir/main.cpp.o  -o cacheFinal 

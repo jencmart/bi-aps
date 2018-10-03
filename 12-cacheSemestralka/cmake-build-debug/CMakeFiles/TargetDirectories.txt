@@ -1,0 +1,3 @@
+/home/jencmart/Dropbox/development/ClionProjects/aps/12-cacheSemestralka/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jencmart/Dropbox/development/ClionProjects/aps/12-cacheSemestralka/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jencmart/Dropbox/development/ClionProjects/aps/12-cacheSemestralka/cmake-build-debug/CMakeFiles/12_cacheSemestralka.dir

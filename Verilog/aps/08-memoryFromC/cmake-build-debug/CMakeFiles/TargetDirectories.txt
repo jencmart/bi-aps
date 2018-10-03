@@ -1,0 +1,3 @@
+/home/jencmart/Dropbox/development/Verilog/aps/08-memoryFromC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jencmart/Dropbox/development/Verilog/aps/08-memoryFromC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jencmart/Dropbox/development/Verilog/aps/08-memoryFromC/cmake-build-debug/CMakeFiles/08_memoryFromC.dir

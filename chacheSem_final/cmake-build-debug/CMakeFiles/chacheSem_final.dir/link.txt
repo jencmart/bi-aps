@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/chacheSem_final.dir/main.c.o  -o chacheSem_final -lm 

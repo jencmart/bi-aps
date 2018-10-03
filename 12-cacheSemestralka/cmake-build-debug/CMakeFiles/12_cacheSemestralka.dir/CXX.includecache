@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jencmart/Dropbox/development/ClionProjects/aps/12-cacheSemestralka/main.cpp
+sys/mman.h
+-
+sys/types.h
+-
+fcntl.h
+-
+unistd.h
+-
+sys/stat.h
+-
+assert.h
+-
+
